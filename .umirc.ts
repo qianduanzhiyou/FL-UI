@@ -39,7 +39,7 @@ export default defineConfig({
     },
     {
       title: 'GitHub',
-      path: 'https://github.com/lijinshuai21',
+      path: 'https://github.com/qianduanzhiyou',
     },
   ],
   // styles: [style],
